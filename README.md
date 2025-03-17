@@ -1,5 +1,5 @@
 # AwsomeTechs
-Awsome Open Source AI Techniques
+Awsome AI Techniques
 
 # TTS
 - https://github.com/FunAudioLLM/CosyVoice
