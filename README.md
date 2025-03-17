@@ -11,5 +11,5 @@ Awsome AI Techniques
 # OCR
 - https://github.com/Ucas-HaoranWei/GOT-OCR2.0
 - https://github.com/PaddlePaddle/PaddleOCR
-- https://olmocr.allenai.org/
+- https://olmocr.allenai.org
 - https://mistral.ai/news/mistral-ocr
